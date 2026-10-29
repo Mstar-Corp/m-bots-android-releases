@@ -13,4 +13,4 @@ Mỗi release kèm `latest.json` mà app đọc để biết có bản mới:
 ```
 
 APK ký bằng khoá phát hành của Mstar Corp. SHA-256 chứng chỉ ký:
-`54:8A:2F…7E:DC:65` (kiểm bằng `apksigner verify --print-certs`).
+`548a2f7d1ddc6e9fa07f2d3c430d8780d598e3f059efd119574931a2c57edc65` (kiểm bằng `apksigner verify --print-certs`).
